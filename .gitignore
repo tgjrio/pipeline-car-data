@@ -1,0 +1,7 @@
+data/
+.venv/
+app.log
+.env
+flake.py
+local.py
+.pytest_cache/
